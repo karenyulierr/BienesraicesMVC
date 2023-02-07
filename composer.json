@@ -1,0 +1,17 @@
+{
+    "name": "user/bienesraices",
+    "description": "POO",
+    "type": "project",
+    "authors": [{
+        "name": "Karenyulier",
+        "email": "karenyulierr@gmail.com"
+    }],
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    }
+}
