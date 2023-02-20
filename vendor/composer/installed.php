@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'user/bienesraices',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '550539b00fe8a717dbd75a9f46556f09e5aafefd',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -68,9 +68,9 @@
             'dev_requirement' => false,
         ),
         'user/bienesraices' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '550539b00fe8a717dbd75a9f46556f09e5aafefd',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
